@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Erick
+- 👋 Hi, I’m Erick Garcia
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Front-End Development with Nucamp
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I graduated from Nucamp coding bootcamp Dec 2021 - Front-End Web and Mobile Development
+- 💞️ My portfolio https://erickgarcia.dev/
 - 📫 How to reach me erick818@gmail.com
 
 <!---
